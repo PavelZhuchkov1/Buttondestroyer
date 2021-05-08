@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Buttondestroyer</string>
+    <string name="tv_score">Score: %1d</string>
+    <string name="tv_time">Time: %1d sec</string>
+    <string name="game_over_message">Time\'s up! Your score was: %1$d</string>
+    <string name="about_item">About</string>
+    <string name="about_title">Buttondestroyer %1$s</string>
+    <string name="about_message">Created by Pavel Zhuchkov</string>
+</resources>
